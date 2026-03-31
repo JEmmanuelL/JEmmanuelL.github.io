@@ -1,5 +1,5 @@
 /* =========================================
-   ENLANZA — Diamond Roll Studio
+   ELANZA — Diamond Roll Studio
    Landing Page Stylesheet
    ========================================= */
 
@@ -301,6 +301,10 @@ h3{font-size:clamp(1.2rem,2.5vw,1.9rem)}
     -webkit-overflow-scrolling:touch;
     scrollbar-width:none;
     gap:16px;
+  }
+  /* Extra top space so badge doesn't get clipped */
+  .pricing-carousel .carousel__track{
+    padding-top:16px;
   }
   .steps-carousel .carousel__track::-webkit-scrollbar,
   .pricing-carousel .carousel__track::-webkit-scrollbar,

@@ -1,5 +1,5 @@
 /* =========================================
-   ENLANZA — Diamond Roll Studio
+   ELANZA — Diamond Roll Studio
    Landing Page Scripts
    ========================================= */
 
